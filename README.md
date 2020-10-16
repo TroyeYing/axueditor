@@ -1,9 +1,9 @@
-# axueditor ueditor二次开发
+# axueditor 
 
-## 组件一  分页组件
+## ueditor组件（基于Vue）
 
 ### Install
-`npm install axueditor安想 -S`
+`npm install axueditor -S`
 
 
 ### Use
@@ -19,11 +19,6 @@ import {axueditor} from ''axueditor;
  ``` 
 
 
-#### js:
-
-``` 
- 
-```
 
 
 #### vue
