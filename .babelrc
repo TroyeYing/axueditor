@@ -1,0 +1,7 @@
+{
+  "plugins": ["transform-remove-strict-mode"],
+  "presets": ["env"],
+  "ignore": [
+    "./src/components/anx-ueditor1/*"
+  ]
+}
